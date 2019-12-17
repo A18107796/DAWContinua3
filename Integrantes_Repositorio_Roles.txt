@@ -1,0 +1,26 @@
+*******************INTEGRANTES*******************
+Huaman Rojas Carlos 			
+Izaguirre Colachagua Ricardo
+Molina Camarena Mishell
+Salazar Rojas Samir
+Veli Cardenas Danixza 
+
+*************************************************
+
+Repositorio: 
+https://github.com/A18107796/DAWContinua3/
+
+URL:
+http://localhost:9078/peru21/login
+
+
+*************************************************
+Roles:				Usuario 	Contraseña
+ADMIN				 admin	 	admin
+RECURSOS_HUMANOS		 mishell 	mishell
+ASISTENTE_VENTAS		 danixza	danixza
+CAJERO				 ricardo	ricardo
+
+*************************************************
+
+
